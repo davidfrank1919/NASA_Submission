@@ -44,7 +44,7 @@ def display_evaluation_metrics(scores: Dict[str, float]):
 
 def main():
     st.title("🚀 NASA Space Mission Chat with Evaluation")
-    st.markdown("Chat with AI about NASA space missions with real-time quality evaluation")
+    st.markdown("Chat with AI about NASA space missions with real-time quality evaluation. I am new so I may make mistakes and not have all the answers yet, but I will do my best to help! Try asking about Apollo 11, Challenger, or any other NASA mission.")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
