@@ -1,0 +1,5 @@
+chromadb
+openai
+ragas
+langchain-openai
+streamlit

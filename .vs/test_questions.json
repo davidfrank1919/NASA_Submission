@@ -1,0 +1,10 @@
+/* Added the test questions for the RAG system in a JSON file. These questions cover various aspects of the Apollo missions, including objectives, crew roles, technical challenges, and disaster analysis. This will help in evaluating the performance of the RAG system in retrieving relevant information based on these questions. */
+/*This was requested from the feedback */
+[
+  {"question": "What was the primary objective of the Apollo 11 mission?", "category": "overview"},
+  {"question": "How did the crew respond to the oxygen tank explosion during Apollo 13?", "category": "emergency"},
+  {"question": "What factors contributed to the Challenger disaster?", "category": "disaster analysis"},
+  {"question": "Who were the crew members of Apollo 13, and what roles did they serve?", "category": "crew"},
+  {"question": "What technical challenges occurred during the Apollo 11 landing phase?", "category": "technical"},
+  {"question": "Provide a timeline of key events during Apollo 13 from anomaly to safe return.", "category": "timeline"}
+]
