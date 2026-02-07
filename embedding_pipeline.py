@@ -1,6 +1,6 @@
 # embedding.py
 # embedding_pipeline.py
-#removed some duplicate code and added some error handling for missing dependencies. Also added more comments for clarity.
+# removed some duplicate code and added some error handling for missing dependencies. Also added more comments for clarity.
 # CoPilot found issues with my code compared to the scoring matrix.
 from __future__ import annotations
 
